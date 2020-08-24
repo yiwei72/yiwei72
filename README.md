@@ -28,4 +28,4 @@ I am co-leading a team at the [University of Waterloo Alternative Fuels Team (UW
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yiwei%20Wang-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiweiwang72/)
 
-![image](live_long_and_prosper.png)
+![image](https://github.com/yiwei72/yiwei72/blob/master/live_long_and_prosper.png)
