@@ -19,6 +19,8 @@ I am co-leading a team at the [University of Waterloo Alternative Fuels Team (UW
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat-square&logo=Ubuntu)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=CircleCI)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yiwei72&count_private=true&show_icons=true&include_all_commits=true&theme=algolia)
 
