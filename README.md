@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am co-leading a team at the [University of Waterloo Alternative Fuels Team (UWAFT)](uwaft.ca/) that is developing SAE Level-2 Autonomy on a 2019 Chevrolet Blazer RS. I am an enthusiast of Eletric Vehicles and Autonomous Vehicles, and super excited about the future of mobility.  
+I am co-leading a team at the [University of Waterloo Alternative Fuels Team (UWAFT)](https://tiny.cc/uwaft) that is developing SAE Level-2 Autonomy on a 2019 Chevrolet Blazer RS. I am an enthusiast of Eletric Vehicles and Autonomous Vehicles, and super excited about the future of mobility.  
 
 ## Technologies I use:
 
